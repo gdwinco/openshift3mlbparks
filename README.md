@@ -1,5 +1,8 @@
 # NOTE!
 
+cloned from: https://github.com/tonykay/openshift3mlbparks.git
+Jan 4, 2018
+
 This application has bugs introduced for debugging purposes.
 
 # Sample application for OpenShift 3
